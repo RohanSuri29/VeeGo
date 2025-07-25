@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme{
+  --font-inter: "Inter", "sans-serif";
+  --font-montserrat:"Montserrat Alternates", "sans-serif";
+  --font-mono: "Roboto Mono", "monospace";
+}
+
+.bg-class{
+  background-image: url('./assets/veeGoImage.jpeg');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size:contain;
+
+}
